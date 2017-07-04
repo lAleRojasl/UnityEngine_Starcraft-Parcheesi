@@ -1,0 +1,198 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: X:\ParcheesiGitHub\UnityEngine_Starcraft-Parcheesi\Executable\FinalBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading X:\ParcheesiGitHub\UnityEngine_Starcraft-Parcheesi\Executable\FinalBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: X:\ParcheesiGitHub\UnityEngine_Starcraft-Parcheesi\Executable\FinalBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading X:\ParcheesiGitHub\UnityEngine_Starcraft-Parcheesi\Executable\FinalBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: X:\ParcheesiGitHub\UnityEngine_Starcraft-Parcheesi\Executable\FinalBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading X:\ParcheesiGitHub\UnityEngine_Starcraft-Parcheesi\Executable\FinalBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: X:\ParcheesiGitHub\UnityEngine_Starcraft-Parcheesi\Executable\FinalBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading X:\ParcheesiGitHub\UnityEngine_Starcraft-Parcheesi\Executable\FinalBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.102 seconds
+Platform assembly: X:\ParcheesiGitHub\UnityEngine_Starcraft-Parcheesi\Executable\FinalBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: X:\ParcheesiGitHub\UnityEngine_Starcraft-Parcheesi\Executable\FinalBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 100Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.977483 ms
+Estructuras del tablero creadas correctamente!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.371628 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 1265.
+Total: 2.250425 ms (FindLiveObjects: 0.068330 ms CreateObjectMapping: 0.024380 ms MarkObjects: 0.379829 ms  DeleteObjects: 1.777884 ms)
+
+Moviendo token #4 del jugador 1, 5 posiciones.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nuevo token #4 en casilla: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Revisando si mata ficha en pos: 0 turno:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Campo destino libre.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moviendo token #4 del jugador 1, 2 posiciones.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nuevo token #4 en casilla: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Revisando si mata ficha en pos: 2 turno:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Campo destino libre.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moviendo token #2 del jugador 1, 5 posiciones.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nuevo token #2 en casilla: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Revisando si mata ficha en pos: 0 turno:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Campo destino libre.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moviendo token #4 del jugador 1, 2 posiciones.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nuevo token #4 en casilla: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Revisando si mata ficha en pos: 4 turno:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Campo destino libre.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moviendo token #2 del jugador 1, 6 posiciones.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nuevo token #2 en casilla: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Revisando si mata ficha en pos: 6 turno:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Campo destino libre.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moviendo token #4 del jugador 1, 1 posiciones.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nuevo token #4 en casilla: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Revisando si mata ficha en pos: 5 turno:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Campo destino libre.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moviendo token #3 del jugador 1, 5 posiciones.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nuevo token #3 en casilla: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Revisando si mata ficha en pos: 0 turno:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Campo destino libre.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moviendo token #1 del jugador 1, 5 posiciones.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nuevo token #1 en casilla: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Revisando si mata ficha en pos: 0 turno:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ya habia un token en la casilla, pero es aliado. Crean una barrera!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moviendo token #1 del jugador 1, 6 posiciones.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nuevo token #1 en casilla: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Revisando si mata ficha en pos: 6 turno:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ya habia un token en la casilla, pero es aliado. Crean una barrera!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Moviendo token #2 del jugador 1, 12 posiciones.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Nuevo token #2 en casilla: 23
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Revisando si mata ficha en pos: 18 turno:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Campo destino libre.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1748 -> priority: 1 
+  Thread -> id: 23f4 -> priority: 1 

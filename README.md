@@ -10,6 +10,6 @@ Además, con el fin de darle un aspecto atractivo e inmersivo se utilizaron recu
 Starcraft, de la compañía Blizzard Entertainment, Inc.  
 
 Imagen 1 - Menu principal
-![Alt text](/ScreenShot/menu.PNG?raw=true "Title") 
+![Alt text](/ScreenShot/menu.PNG?raw=true "Menu Principal") 
 Imagen 2 - Interfaz del juego
-![Alt text](/ScreenShot/ingame.PNG?raw=true "Title")
+![Alt text](/ScreenShot/in.PNG?raw=true "Ingame UI")
